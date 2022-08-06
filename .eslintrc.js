@@ -40,7 +40,7 @@ module.exports = {
     '@typescript-eslint/restrict-template-expressions': 'off',
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     '@typescript-eslint/no-unnecessary-type-assertion': 'off',
-    '@typescript-eslint/no-unused-vars': 'off',
+    '@typescript-eslint/no-unused-vars': 2,
     '@typescript-eslint/no-unsafe-argument': 'off',
     '@typescript-eslint/await-thenable': 'off',
     '@typescript-eslint/no-floating-promises': 'off',

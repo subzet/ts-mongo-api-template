@@ -2,7 +2,6 @@ import Router from 'express-promise-router';
 import * as s from 'superstruct';
 
 import { validate } from '../middleware';
-import { UserModel } from '../model';
 import { userService } from '../service/user';
 
 const router = Router();
